@@ -11,17 +11,17 @@
   },
   "env": {
     "SESSION_ID": {
-      "description": "Enter your KANGO-XMD session id here; must start with KANGO~",
+      "description": "KANGO~bMNVkTDZ#8UZ2cqaPslxJxLb0QxPJ7dbwX_51jfpK4U-FnHkryKU",
       "value": "",
       "required": false
     },
     "BOT_NAME": {
-      "description": "Enter your bot name here",
+      "description": "Botplug",
       "value": "KANGO-XMD",
       "required": false
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
+      "description": "233240482472",
       "value": "",
       "required": true
     },
